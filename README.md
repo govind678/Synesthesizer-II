@@ -19,4 +19,12 @@ Alternatively, static images of size 320x240px can be generated using Photoshop 
   
 If you want to view the source, additionally, download the Max patch and the folders "Rhythm" and "ScalesNew". Place the folders in Applications/Max6/patches/templates/'New Folder Name'.
 
-Video demonstrating its features will be added soon. 
+Video demonstrating its features will be added soon.
+
+
+
+Note: Emotional Descriptors (in Sanskrit, ancient Indian language) used are-
+Happy (Yellow): Hasya
+Serene (Green): Shringara
+Gloom (Blue): Bhibatsya
+Anger (Red): Roudra 
