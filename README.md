@@ -24,7 +24,11 @@ Video demonstrating its features will be added soon.
 
 
 Note: Emotional Descriptors (in Sanskrit, ancient Indian language) used are-
+
 Happy (Yellow): Hasya
+
 Serene (Green): Shringara
+
 Gloom (Blue): Bhibatsya
+
 Anger (Red): Roudra 
